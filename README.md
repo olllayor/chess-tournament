@@ -20,4 +20,4 @@ Welcome to the Chess Tournament Management System! This project is designed to m
 
 
 # Contact
-Message Mckay on [gmail@ollayor.uz](mailto:gmail@ollayor.uz)
+Message Olloyor on [gmail@ollayor.uz](mailto:gmail@ollayor.uz), [Telegram](t.me/olllayor)
