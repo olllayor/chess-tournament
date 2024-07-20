@@ -55,7 +55,7 @@ The project uses Django Rest Framework to provide API endpoints for managing pla
 
 
 ### Testing
-    ```bash
+    
     python manage.py test
 
 
