@@ -43,12 +43,20 @@ Welcome to the Chess Tournament Management System! This project is designed to m
     ```bash
     python manage.py createsuperuser
 
-6.**Run the development server:**
+6. **Run the development server:**
     ```bash
     python manage.py runserver
 
 7. **Access the application:**
-Open your browser and go to http://127.0.0.1:8000/admin to access the admin interface.
+    Open your browser and go to http://127.0.0.1:8000/admin to access the admin interface.
+
+## API Endpoints
+The project uses Django Rest Framework to provide API endpoints for managing players, tournaments, and matches. The API documentation is available at http://127.0.0.1:8000/swagger/.
+
+
+### Testing
+    ```bash
+    python manage.py test
 
 
 # Contact
