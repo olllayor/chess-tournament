@@ -17,3 +17,7 @@ Welcome to the Chess Tournament Management System! This project is designed to m
 - Python 3.6+
 - Django 3.2+
 - Virtual Environment (optional but recommended)
+
+
+# Contact
+Message Mckay on [gmail@ollayor.uz](mailto:gmail@ollayor.uz)
